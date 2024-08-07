@@ -1,0 +1,41 @@
+.titulo{
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
+    align-items: center;   
+}
+
+body{
+    background: linear-gradient(to right, rgb(81, 161, 252),rgb(137, 244, 252));
+}
+
+
+.box{
+    background-color: rgb(174, 129, 245);
+    width: 50%;
+    border-radius: 20px;
+}
+
+div{
+    display: block;
+    unicode-bidi: isolate;
+    Display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+a{
+  color: rgb(2, 2, 2);
+  font-size: 25px
+}
+img{
+  border-radius: 20px;
+  Display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
